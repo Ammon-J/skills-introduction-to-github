@@ -1,0 +1,4 @@
+Team Members: Hunter, Alex, and Ammon
+Project: Pig Exhibiters
+Communication: Check in 2-3 times a week on discord
+Features: We are going to make an app that enables exhibiters to view information of pigs. For examples like vaccinations, weight, ID tags, name, and etc. This app will also be able to display images of each pig. There will be the ability to send messages between breeders and exhibiters within the app. Constant contact is very important between exhibiters and breeders because vital information needs to be shared about conditions or information about each pig.
